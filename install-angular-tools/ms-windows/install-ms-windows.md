@@ -128,6 +128,7 @@ That's it! You have successfully installed the development tools: Visual Studio 
 2. You can resolve this issue with the following:
 
     1. Add the npm installation folder to your "user variables" AND "environment variables"
+    2. npm install -g typescript
 
     *This troubleshooting tip was contributed by **Chris**. Thanks Chris!!*
 
